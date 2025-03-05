@@ -7,7 +7,7 @@
     "dev": "nodemon server.js"
     },
   "keywords": [],
-  "author": "Ramya",
+  "author": "poonkodi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
